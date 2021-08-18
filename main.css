@@ -1,0 +1,15 @@
+.container{
+    position: relative;
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-end;
+    width: 100%;
+    height: 500px;
+}
+
+.container .sort_el{
+    position: absolute;
+    background-color: green;
+    margin-left: 2px;
+    height: 400px;
+}
